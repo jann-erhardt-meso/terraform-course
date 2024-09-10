@@ -1,0 +1,1 @@
+lambda_function_name = "jann-lambda-test"
